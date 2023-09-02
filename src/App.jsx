@@ -46,7 +46,7 @@ function App() {
       <div className="row">
         <div className="col-md-6 ">
           <div className="row">
-            {users.slice(10, 22).map((user, i) => (
+            {users.slice(10, 25).map((user, i) => (
               <div key={i} className="mb-3 col-md-6">
                 <div className="card">
                   <img
